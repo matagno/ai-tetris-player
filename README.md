@@ -2,8 +2,8 @@
 
 # 🎮 Tetris with Deep Q-Learning
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Tisma09/Tetris_RL/blob/master/README.md)
-[![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/Tisma09/Tetris_RL/blob/master/README.fr.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/matagno/ai-tetris-player/blob/master/README.md)
+[![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/matagno/ai-tetris-player/blob/master/README.fr.md)
 
 An AI-powered Tetris implementation that learns to play by itself!
 
@@ -62,7 +62,7 @@ Then:
 
 ## Contributors
 
-👤 [@Tismo](https://github.com/Tisma09)  
+👤 [@Mat](https://github.com/matagno)  
 👤 [@Alexis](https://github.com/4lexisGo)  
 👤 [@J0lataupe](https://github.com/J0lataupe)
 
